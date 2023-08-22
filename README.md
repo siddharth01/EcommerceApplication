@@ -1,4 +1,4 @@
-##
+## Description
 This is an ecommerce application with home page displaying the products where we can add the products to the cart and cart page where we can remove the products from the cart. It also updates the cart count an adding/removing the products. The application is build in react, and redux-toolkit is used for the state management.  
 
 ## Steps
