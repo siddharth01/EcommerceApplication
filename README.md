@@ -2,10 +2,10 @@
 This is an ecommerce application with home page displaying the products where we can add the products to the cart and cart page where we can remove the products from the cart. It also updates the cart count an adding/removing the products. The application is build in react, and redux-toolkit is used for the state management.  
 
 ## Steps
-Clone the repo git clone https://github.com/siddharth01/EcommerceApplication.git
-git checkout master
-do npm install, in case of any issue with npm install run npm install --legacy-peer-deps 
-npm start
+1). Clone the repo git clone https://github.com/siddharth01/EcommerceApplication.git.
+2). Do git checkout master
+3). do npm install, in case of any issue with npm install run npm install --legacy-peer-deps 
+4). npm start
 
 ## Available Scripts
 
