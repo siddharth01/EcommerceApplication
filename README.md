@@ -3,9 +3,9 @@ This is an ecommerce application with home page displaying the products where we
 
 ## Steps
 1). Clone the repo git clone https://github.com/siddharth01/EcommerceApplication.git \
-2). Do git checkout master \
-3). do npm install, in case of any issue with npm install run npm install --legacy-peer-deps \ 
-4). npm start \
+2). Do git checkout master. \
+3). Do npm install, in case of any issue with npm install run npm install --legacy-peer-deps. \ 
+4). Do npm start.
 
 ## Available Scripts
 
